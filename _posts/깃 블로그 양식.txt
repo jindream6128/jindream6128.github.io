@@ -1,0 +1,10 @@
+---
+layout: single
+title: "백준 "
+categories: Algorithm
+tag: Algorithm
+toc: true
+author_profile: false
+sidebar: 
+    nav: "docs"
+---
