@@ -9,8 +9,8 @@ cam.set(3, 640) # set video widht
 cam.set(4, 480) # set video height
 #config
 s3=boto3.client('s3',
-   aws_access_key_id='AKIA347D7PX6HZBLAXX7',
-   aws_secret_access_key='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')
+   aws_access_key_id='###',
+   aws_secret_access_key=###')
 
 def print_real():
     ret, img =cam.read()
