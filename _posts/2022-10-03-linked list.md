@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "자료구조 "
+title: "링크드 리스트 "
 categories: DataStructure stack
 tag: DataStructure stack
 toc: true
